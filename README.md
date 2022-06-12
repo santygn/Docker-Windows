@@ -4,5 +4,5 @@
 
 ## Ander Santiago Guillen Nazareno
 ***
-- Acceder a la web oficial de [Docker]([https://www.google.com](https://www.docker.com/products/docker-desktop/)) y le damos a Windows para descargarlo en nuestro dispositivo con SO Windows.
+- Acceder a la web oficial de [Docker](https://www.docker.com/products/docker-desktop/) y le damos a Windows para descargarlo en nuestro dispositivo con SO Windows.
 
