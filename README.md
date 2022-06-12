@@ -5,6 +5,9 @@
 ## Ander Santiago Guillen Nazareno
 ***
 - Acceder a la web oficial de [Docker](https://www.docker.com/products/docker-desktop/ "Instalar Docker") y le damos a Windows para descargarlo en nuestro dispositivo con SO Windows.
+
+![](https://github.com/santygn/Docker-Windows/blob/da88f11f92d0a14c99df2ec894d4062e5f40b2e0/img/1.png))
+
 - Abrir el instalador de Docker que hemos descargado previamente para que se instale correctamente.
 - Una vez instalado tendremos que reiniciar el dispositivo.
 - Tras esto, recibiremos una advertencia de que necesitamos tener instalado Linux kernel.
