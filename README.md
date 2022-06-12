@@ -9,6 +9,9 @@
 ![](https://github.com/santygn/Docker-Windows/blob/da88f11f92d0a14c99df2ec894d4062e5f40b2e0/img/1.png))
 
 - Abrir el instalador de Docker que hemos descargado previamente para que se instale correctamente.
+
+![](https://github.com/santygn/Docker-Windows/blob/da88f11f92d0a14c99df2ec894d4062e5f40b2e0/img/2.png))
+
 - Una vez instalado tendremos que reiniciar el dispositivo.
 - Tras esto, recibiremos una advertencia de que necesitamos tener instalado Linux kernel.
 - Antes de instalar el Kernel, nos iremos nuestro powerShell para ver que version de WSL tenemos en nuestro Windows. Introduciremos el codigo `wsl --set-default-version 2`
